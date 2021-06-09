@@ -1,17 +1,3 @@
-# Pixabay Image Gallery - React & Tailwind CSS 
+# Tailwaind-image-gallery link : 
+https://heuristic-dijkstra-84e806.netlify.app/
 
-Simple gallery with images from the pixabay API. Tailwind css is built into workflow with postcss and autoprefixer.
-
-## Usage
-Add your Pixabay API key to .env - https://pixabay.com/api/docs/
-
-```
-# Install dependencies
-npm install
-
-# Watch CSS & run server on :3000
-npm start
-
-# Build CSS and assets
-npm run build
-```# Tailwaind-image-gallery
